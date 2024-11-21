@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\source\\repos\\Hilu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\cw4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\cw4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|c:\\users\\legion\\source\\repos\\hilu\\hilu\\yunika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\yunika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|c:\\users\\legion\\source\\repos\\hilu\\hilu\\cw5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\cw5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\customexceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\customexceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\exceptionhandlingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\exceptionhandlingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\abstractclassdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\abstractclassdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\methodoverridingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\methodoverridingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\basekeyworddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\basekeyworddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|C:\\Users\\Legion\\source\\repos\\Hilu\\hilu\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BC113E-F3B5-4476-A10D-85026B9269F2}|Hilu\\Hilu.csproj|solutionrelative:hilu\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yunika.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Yunika.cs",
+              "RelativeDocumentMoniker": "Hilu\\Yunika.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Yunika.cs*",
+              "RelativeToolTip": "Hilu\\Yunika.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:16:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CW5.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CW5.cs",
+              "RelativeDocumentMoniker": "Hilu\\CW5.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CW5.cs",
+              "RelativeToolTip": "Hilu\\CW5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:57:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CW4.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CW4.cs",
+              "RelativeDocumentMoniker": "Hilu\\CW4.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CW4.cs",
+              "RelativeToolTip": "Hilu\\CW4.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:30:07.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\ExceptionHandlingDemo.cs",
+              "RelativeDocumentMoniker": "Hilu\\ExceptionHandlingDemo.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\ExceptionHandlingDemo.cs",
+              "RelativeToolTip": "Hilu\\ExceptionHandlingDemo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:24:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractclassDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\AbstractclassDemo.cs",
+              "RelativeDocumentMoniker": "Hilu\\AbstractclassDemo.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\AbstractclassDemo.cs",
+              "RelativeToolTip": "Hilu\\AbstractclassDemo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:15:07.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MethodOverridingDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\MethodOverridingDemo.cs",
+              "RelativeDocumentMoniker": "Hilu\\MethodOverridingDemo.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\MethodOverridingDemo.cs",
+              "RelativeToolTip": "Hilu\\MethodOverridingDemo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:55:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseKeywordDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\BaseKeywordDemo.cs",
+              "RelativeDocumentMoniker": "Hilu\\BaseKeywordDemo.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\BaseKeywordDemo.cs",
+              "RelativeToolTip": "Hilu\\BaseKeywordDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:25:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Box.cs",
+              "RelativeDocumentMoniker": "Hilu\\Box.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Box.cs",
+              "RelativeToolTip": "Hilu\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:26:29.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Program.cs",
+              "RelativeDocumentMoniker": "Hilu\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\Program.cs",
+              "RelativeToolTip": "Hilu\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:24:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptionDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CustomExceptionDemo.cs",
+              "RelativeDocumentMoniker": "Hilu\\CustomExceptionDemo.cs",
+              "ToolTip": "C:\\Users\\Legion\\source\\repos\\Hilu\\Hilu\\CustomExceptionDemo.cs",
+              "RelativeToolTip": "Hilu\\CustomExceptionDemo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:44:48.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

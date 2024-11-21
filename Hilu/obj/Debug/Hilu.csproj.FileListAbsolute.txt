@@ -1,0 +1,7 @@
+C:\Users\Legion\source\repos\Hilu\Hilu\obj\Debug\Hilu.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\Hilu\Hilu\obj\Debug\Hilu.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Hilu\Hilu\bin\Debug\Hilu.exe.config
+C:\Users\Legion\source\repos\Hilu\Hilu\bin\Debug\Hilu.exe
+C:\Users\Legion\source\repos\Hilu\Hilu\bin\Debug\Hilu.pdb
+C:\Users\Legion\source\repos\Hilu\Hilu\obj\Debug\Hilu.exe
+C:\Users\Legion\source\repos\Hilu\Hilu\obj\Debug\Hilu.pdb
